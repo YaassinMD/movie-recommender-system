@@ -1,6 +1,4 @@
-Sure — here is the **entire README text**, ready to paste directly into your GitHub `README.md`. I’ve kept it aligned with the Movie Recommender project you actually built.
 
-````markdown
 # 🎬 Movie Recommender System
 
 A content-based movie recommendation system built with Python and Streamlit that recommends movies similar to a user's selected movie. The application uses a precomputed similarity matrix to generate recommendations and the TMDB API to fetch movie posters.
