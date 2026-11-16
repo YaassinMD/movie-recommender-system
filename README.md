@@ -298,11 +298,5 @@ GitHub: [YaassinMD]([YOUR_GITHUB_PROFILE_URL](https://github.com/YaassinMD))
 
 ```
 
-**Just replace these three placeholders before saving:**
 
-- `[YOUR_LIVE_DEMO_LINK_HERE](https://movie-recommender-system-lyyv6mkiaothvjz6ligxnc.streamlit.app/)`
-- `[YOUR_GITHUB_REPOSITORY_URL](https://github.com/YaassinMD/movie-recommender-system/tree/main)`
-- `[YOUR_GITHUB_PROFILE_URL](https://github.com/YaassinMD)`
 
-And if you haven't deployed the Movie Recommender yet, leave the Live Demo section out for now—we can deploy it to Streamlit and then put the real URL there.
-```
