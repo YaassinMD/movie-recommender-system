@@ -292,11 +292,10 @@ Once deployed, the application can be accessed through a public URL.
 
 GitHub: [YaassinMD]([YOUR_GITHUB_PROFILE_URL](https://github.com/YaassinMD))
 
----
 
 ⭐ If you found this project interesting, consider giving the repository a star!
 
-```
+
 
 
 
